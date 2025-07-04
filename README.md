@@ -6,19 +6,17 @@ A beautiful, responsive Islamic prayer times website built with HTML, CSS, and J
 
 - **Real-time Prayer Times**: Get accurate prayer times for any city worldwide
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
-- **Arabic Interface**: Beautiful Arabic typography with El Messiri font
+- **Arabic Interface**
 - **Country & City Selection**: Choose from a comprehensive list of countries and cities
 - **Date Toggle**: Switch between Gregorian and Hijri calendar dates
-- **Islamic Quotes**: Inspirational hadiths and Quranic verses for each prayer
-- **Beautiful UI**: Elegant design with mosque background and Islamic color scheme
+- **Islamic Quotes**
 
 ## 🎨 Design Features
 
 - **Islamic Color Scheme**: Burgundy (#800020) and Gold (#d4af7f)
 - **Responsive Layout**: Adapts to all screen sizes
 - **Prayer Cards**: Individual cards for each prayer with times and quotes
-- **Smooth Animations**: Hover effects and transitions
-- **Arabic Typography**: Beautiful El Messiri font for authentic Arabic text
+- **Arabic Typography**: El Messiri font for authentic Arabic text
 
 ## 📱 Responsive Breakpoints
 
@@ -63,15 +61,6 @@ The application uses the [Aladhan API](https://aladhan.com/prayer-times-api) for
 - Prayer times calculation
 - Date conversion (Gregorian ↔ Hijri)
 - Country and city data
-
-## 🎯 Prayer Times Included
-
-- **الفجر (Fajr)**: Dawn prayer
-- **الشروق (Sunrise)**: Sunrise time
-- **الظهر (Dhuhr)**: Noon prayer
-- **العصر (Asr)**: Afternoon prayer
-- **المغرب (Maghrib)**: Sunset prayer
-- **العشاء (Isha)**: Night prayer
 
 ## 📄 Project Structure
 
